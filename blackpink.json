@@ -1,25 +1,25 @@
 {
-    "name": "black pink",
+    "name": "blackpink",
     "is_dark": false,
     "colors": {
         "accent-color": "#ffbce6",
         "primary-color": "#5e81ac",
         "warning-color": "#bf616a",
 
-        "sidebar-color": "#d8dee9",
-        "roomlist-background-color": "#e5e9f0",
+        "sidebar-color": "#000",
+        "roomlist-background-color": "#000",
         "roomlist-text-color": "#d08770",
-        "roomlist-text-secondary-color": "#3b4252",
-        "roomlist-highlights-color": "#eceff4",
-        "roomlist-separator-color": "#eceff4",
+        "roomlist-text-secondary-color": "#e5e9f0",
+        "roomlist-highlights-color": "#000",
+        "roomlist-separator-color": "#000",
 
-        "timeline-background-color": "#eceff4",
-        "timeline-text-color": "#2e3440",
-        "secondary-content": "#2e3440",
-        "tertiary-content": "#2e3440",
-        "timeline-text-secondary-color": "#3b4252",
-        "timeline-highlights-color": "#e5e9f0",
-        "reaction-row-button-selected-bg-color": "#bf616a"
+        "timeline-background-color": "#000",
+        "timeline-text-color": "#e5e9f0",
+        "secondary-content": "#e5e9f0",
+        "tertiary-content": "#e5e9f0",
+        "timeline-text-secondary-color": "#e5e9f0",
+        "timeline-highlights-color": "#ffbce6",
+        "reaction-row-button-selected-bg-color": "#bf616a",
         "SpaceRoomView_info": "#00000"
     }
 }
