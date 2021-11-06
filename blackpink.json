@@ -1,6 +1,6 @@
 {
     "name": "blackpink",
-    "is_dark": false,
+    "is_dark": true,
     "colors": {
         "accent-color": "#ffbce6",
         "primary-color": "#5e81ac",
